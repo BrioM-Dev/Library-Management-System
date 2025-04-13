@@ -1,0 +1,21 @@
+# Java
+*.class
+*.log
+*.jar
+*.war
+*.ear
+bin/
+build/
+out/
+
+# IDEs and editors
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
