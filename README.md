@@ -12,8 +12,5 @@ A simple Java-based Library Management System for adding, managing, and searchin
 2. Open the project in any Java IDE (e.g., IntelliJ IDEA, Eclipse).
 3. Compile and run `Main.java`.
 
-## Screenshots
-*(Add screenshots later if you want)*
-
 ## License
 This project is open-source.
